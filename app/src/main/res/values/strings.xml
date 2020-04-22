@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tip_Calc_A2</string>
+
+    <string-array name="Opinia">
+        <item>Wybierz odpowiednią opcję:</item>
+        <item>Ohydne</item>
+        <item>Nijakie</item>
+        <item>Dobre</item>
+        <item>Przepyszne</item>
+    </string-array>
+
+
+
+</resources>
